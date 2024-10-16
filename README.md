@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 👋 Hi there! I'm İbrahim Efe Kutas, a passionate frontend developer and an eager student dedicated to learning and creating impactful web experiences.
-- 🔭 I develop projects using modern technologies like Next.js, React, Node.js, and TypeScript.
+- 🔭 I develop projects using modern technologies like React,JavaScript and TypeScript.
 - 🌱 Always open to learning new technologies and methodologies to stay up-to-date in the fast-evolving world of web development.
 - 💬 Let's connect! Feel free to reach out to discuss tech, collaboration opportunities, or just to say hi.
 
